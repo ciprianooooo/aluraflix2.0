@@ -1,0 +1,18 @@
+body {
+    color: white;
+    background: pink;
+    margin: 0px;
+}
+
+header {
+border-bottom: solid 2px rgba(252, 133, 255, 1);
+padding: 20px;
+font-size: 32px;
+color: rgba(252, 133, 255, 1);
+}
+
+section {
+background: rgb(245 245 155);
+padding-bottom: 80px;
+padding-top: 80px;
+}

@@ -2,6 +2,7 @@ body {
     color: white;
     background: pink;
     margin: 0px;
+    font-family: "Bungee Tint" , sans-serif  ;
 }
 
 header {
@@ -15,4 +16,21 @@ section {
 background: rgb(245 245 155);
 padding-bottom: 80px;
 padding-top: 80px;
+display: flex; 
+justify-content: center;
+}
+
+.chamada-texto {
+margin-right: 5%;
+
+}
+
+h1 {
+font-size: 30px;
+
+}
+
+p {
+font-size: 20px; 
+
 }
